@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "cert.ibm.app.jwtExpirationMs",
+  "type": "java.lang.String",
+  "description": "A description for 'cert.ibm.app.jwtExpirationMs'"
+}]}
